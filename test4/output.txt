@@ -1,0 +1,4 @@
+Expected
+
+should fail with semantic error
+should not produce a runnable executable
